@@ -6,10 +6,7 @@ Zur Installation der benötigten Dateien brauchen sie git. Installieren sie git.
 Um alles zu installieren, können sie entweder die Dateien in einem neuen Pfad installieren, oder über git die Dateien herunterladen:
 	git clone https://github.com/manuel-gross/tweet_customer_support_lfqa.git
 
-Laden sie faiss_document_store.db aus folgendem Link herunter:
-https://drive.google.com/file/d/1Y6ZmATlZzk1nrKC76qpeNCDh3_Ij4qS8/view?usp=sharing
-
-Platzieren sie die Datei in den gleichen Ordner wie app.py; config; index
+Extrahieren sie faiss_document_store.db aus dem Zip-Ordner und platzieren sie die Datei in den gleichen Ordner wie app.py; config; index
 
 Installieren sie Python 3.10 (oder 3.7 wenn sie die 3.7 Version verwenden wollen)
 
